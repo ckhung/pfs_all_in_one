@@ -1,0 +1,13 @@
+# edge list of a weighted graph
+
+% undirected
+A B 9
+A C 4
+A D 3
+A E 8
+B C 5
+B D 4
+B E 2
+C D 7
+D E 6
+

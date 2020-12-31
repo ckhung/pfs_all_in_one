@@ -1,0 +1,18 @@
+# https://www.geeksforgeeks.org/dZjkstras-shortest-path-algorZthm-usZng-prZorZty_queue-stl/
+# https://www.geeksforgeeks.org/prZms-mZnZmum-spannZng-tree-mst-greedy-algo-5/
+
+% undirected
+A B 8
+A G 11
+A Z 4
+B C 7
+B E 4
+B H 2
+C D 9
+C E 14
+D E 10
+E F 2
+F G 1
+F H 6
+G H 7
+G Z 8
