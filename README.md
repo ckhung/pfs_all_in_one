@@ -12,6 +12,7 @@ Using pfs.py:
    [geeksforgeeks's Dijkstra tutorial](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-using-priority_queue-stl/)
 
 Example usages:
+
     python3 pfs.py -a bfs 2.gr		# breadth first search
     python3 pfs.py -a dfs 2.gr		# depth first search
     python3 pfs.py -a prim 2.gr		# Prim's minimal spanning tree
